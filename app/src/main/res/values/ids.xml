@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_detailFood" type="id" />
+    <item name="tv_detailPrice" type="id" />
+    <item name="iv_detailPhoto" type="id" />
+</resources>
